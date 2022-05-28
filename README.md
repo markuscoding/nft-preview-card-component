@@ -13,7 +13,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:
+- Solution URL:https://github.com/markuscoding/nft-preview-card-component
 - Live Site URL:
 
 ### Screenshot
